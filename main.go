@@ -1,9 +1,9 @@
 package main
 
 import (
-	log
+	"log"
 )
 
-func main(){
+func main() {
 	log.Println("Drone Ci test")
 }
